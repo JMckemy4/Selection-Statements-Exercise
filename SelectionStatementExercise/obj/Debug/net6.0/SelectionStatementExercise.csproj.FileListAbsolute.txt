@@ -1,0 +1,4 @@
+C:\Users\jared\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jared\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\jared\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
+C:\Users\jared\OneDrive\Desktop\repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
